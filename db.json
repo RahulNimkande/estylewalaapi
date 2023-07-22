@@ -200,12 +200,36 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/18981842/2023/1/18/b5d7b867-e2f5-4171-a783-57d228a94eb91674036964535PumaMenRedBlackBrandLogoPrintedT-shirt7.jpg"
       ],
       "reviews": [
-        { "id": 1, "title": "Review 1", "content": "Content of review 1" },
-        { "id": 2, "title": "Review 2", "content": "Content of review 2" }, 
-        { "id": 3, "title": "Review 3", "content": "Content of review 3" },
-        { "id": 4, "title": "Review 4", "content": "Content of review 4" },
-        { "id": 5, "title": "Review 5", "content": "Content of review 5" },
-        { "id": 6, "title": "Review 6", "content": "Content of review 6" }
+        {
+            "id": 1,
+            "name": "John Doe",
+            "content": "I am very satisfied with this product. It exceeded my expectations."
+          },
+          {
+            "id": 2,
+            "name": "Jane Smith",
+            "content": "I would recommend this product to anyone. It's worth every penny."
+          },
+          {
+            "id": 3,
+            "name": "Michael Johnson",
+            "content": "The customer service was outstanding. They helped me with all my queries."
+          },
+          {
+            "id": 4,
+            "name": "Emily Williams",
+            "content": "The quality of the product is top-notch. I'm very impressed."
+          },
+          {
+            "id": 5,
+            "name": "Daniel Brown",
+            "content": "The item arrived earlier than expected. Kudos to the quick shipping."
+          },
+          {
+            "id": 6,
+            "name": "Olivia Davis",
+            "content": "I had an amazing experience with this company. Will buy again!"
+          }
       ]
     },
 
@@ -227,6 +251,128 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/398de750-1dbb-4e1e-a1f8-fcd416009a631645010770461-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-3.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/d4f9613f-552b-433b-8be5-09621e22ea651645010770417-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-5.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/08941573-40ab-40e6-9ae9-5e7d295437461645010770395-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-6.jpg"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "content": "I am very satisfied with this product. It exceeded my expectations."
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "content": "I would recommend this product to anyone. It's worth every penny."
+        },
+        {
+          "id": 3,
+          "name": "Michael Johnson",
+          "content": "The customer service was outstanding. They helped me with all my queries."
+        },
+        {
+          "id": 4,
+          "name": "Emily Williams",
+          "content": "The quality of the product is top-notch. I'm very impressed."
+        },
+        {
+          "id": 5,
+          "name": "Daniel Brown",
+          "content": "The item arrived earlier than expected. Kudos to the quick shipping."
+        },
+        {
+          "id": 6,
+          "name": "Olivia Davis",
+          "content": "I had an amazing experience with this company. Will buy again!"
+        },
+        {
+          "id": 7,
+          "name": "Noah Wilson",
+          "content": "The design of the product is unique and eye-catching. Love it!"
+        },
+        {
+          "id": 8,
+          "name": "Ava Martinez",
+          "content": "This product is very easy to use, even for beginners like me."
+        },
+        {
+          "id": 9,
+          "name": "Ethan Anderson",
+          "content": "For the price, this product offers great value. Highly recommended."
+        },
+        {
+          "id": 10,
+          "name": "Sophia Thomas",
+          "content": "I needed assistance and their support team responded promptly. Thumbs up!"
+        },
+        {
+          "id": 11,
+          "name": "James Miller",
+          "content": "The build quality of this product is outstanding. I'm impressed."
+        },
+        {
+          "id": 12,
+          "name": "Emma Wilson",
+          "content": "I'm a satisfied customer. The product met all my requirements."
+        },
+        {
+          "id": 13,
+          "name": "Liam Clark",
+          "content": "The delivery was super fast. I got my order within two days."
+        },
+        {
+          "id": 14,
+          "name": "Isabella Martin",
+          "content": "This product performs exceptionally well. I'm a happy customer."
+        },
+        {
+          "id": 15,
+          "name": "Mason Hernandez",
+          "content": "From purchase to delivery, the whole experience was great."
+        },
+        {
+          "id": 16,
+          "name": "Avery Martinez",
+          "content": "The interface is intuitive and easy to navigate. Thumbs up!"
+        },
+        {
+          "id": 17,
+          "name": "Jackson Thompson",
+          "content": "I'm highly satisfied with the product and the service."
+        },
+        {
+          "id": 18,
+          "name": "Ella Robinson",
+          "content": "The product feels very sturdy and well-made. Impressive quality."
+        },
+        {
+          "id": 19,
+          "name": "Lucas Parker",
+          "content": "This product offers excellent value for the price. Recommended."
+        },
+        {
+          "id": 20,
+          "name": "Aria Adams",
+          "content": "The support team efficiently resolved my issue. Great job!"
+        },
+        {
+          "id": 21,
+          "name": "Logan Murphy",
+          "content": "This product is a great addition to my setup. Love it!"
+        },
+        {
+          "id": 22,
+          "name": "Grace Turner",
+          "content": "The customer care team was helpful and friendly. Thank you!"
+        },
+        {
+          "id": 23,
+          "name": "Lucas Foster",
+          "content": "The product performs reliably. I can trust it for my needs."
+        },
+        {
+          "id": 24,
+          "name": "Victoria Cooper",
+          "content": "I made an excellent purchase. The product is top-notch."
+        }
       ]
     },
 
@@ -248,7 +394,30 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/21273670/2022/12/22/294900ab-f559-4b4e-b7ea-176feee9469c1671693613739Kurtas2.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/21273670/2022/12/22/ff097ef2-c26d-4fb5-8590-19d198d324941671693613712Kurtas5.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/21273670/2022/12/22/18910f2b-9232-48f8-b981-9a3d258d43eb1671693613794Kurtas7.jpg"
-      ]
+      ],
+      "reviews": [
+        { "id": 1, "name": "John Doe", "content": "I am very satisfied with this product. It exceeded my expectations." },
+        { "id": 2, "name": "Jane Smith", "content": "I would recommend this product to anyone. It's worth every penny." },
+        { "id": 3, "name": "Michael Johnson", "content": "The customer service was outstanding. They helped me with all my queries." },
+        { "id": 4, "name": "Emily Williams", "content": "The quality of the product is top-notch. I'm very impressed." },
+        { "id": 5, "name": "Daniel Brown", "content": "The item arrived earlier than expected. Kudos to the quick shipping." },
+        { "id": 6, "name": "Olivia Davis", "content": "I had an amazing experience with this company. Will buy again!" },
+        { "id": 7, "name": "Noah Wilson", "content": "The design of the product is unique and eye-catching. Love it!" },
+        { "id": 8, "name": "Ava Martinez", "content": "This product is very easy to use, even for beginners like me." },
+        { "id": 9, "name": "Ethan Anderson", "content": "For the price, this product offers great value. Highly recommended." },
+        { "id": 10, "name": "Sophia Thomas", "content": "I needed assistance and their support team responded promptly. Thumbs up!" },
+        { "id": 11, "name": "James Miller", "content": "The build quality of this product is outstanding. I'm impressed." },
+        { "id": 12, "name": "Emma Wilson", "content": "I'm a satisfied customer. The product met all my requirements." },
+        { "id": 13, "name": "Liam Clark", "content": "The delivery was super fast. I got my order within two days." },
+        { "id": 14, "name": "Isabella Martin", "content": "This product performs exceptionally well. I'm a happy customer." },
+        { "id": 15, "name": "Mason Hernandez", "content": "From purchase to delivery, the whole experience was great." },
+        { "id": 16, "name": "Avery Martinez", "content": "The interface is intuitive and easy to navigate. Thumbs up!" },
+        { "id": 17, "name": "Jackson Thompson", "content": "I'm highly satisfied with the product and the service." },
+        { "id": 18, "name": "Ella Robinson", "content": "The product feels very sturdy and well-made. Impressive quality." },
+        { "id": 19, "name": "Lucas Parker", "content": "This product offers excellent value for the price. Recommended." },
+        { "id": 20, "name": "Aria Adams", "content": "The support team efficiently resolved my issue. Great job!" }
+        
+      ]      
     },
 
     {
@@ -269,7 +438,25 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15455762/2023/2/2/d3302291-2ca1-47c3-a3aa-496c36d695f01675318541502-Carlton-London-Women-Limited-Edition-Blush-Eau-de-Parfum--10-3.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15455762/2023/2/2/db79a340-5d04-43e8-8344-d833ed9e48b41675318541473-Carlton-London-Women-Limited-Edition-Blush-Eau-de-Parfum--10-4.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/15455762/2023/2/2/d17c3fa7-558f-4888-a287-baf9a6219b001675318541431-Carlton-London-Women-Limited-Edition-Blush-Eau-de-Parfum--10-6.jpg"
+      ],
+      "reviews": [
+        { "id": 1, "name": "John Doe", "content": "I am very satisfied with this product. It exceeded my expectations." },
+        { "id": 2, "name": "Jane Smith", "content": "I would recommend this product to anyone. It's worth every penny." },
+        { "id": 3, "name": "Michael Johnson", "content": "The customer service was outstanding. They helped me with all my queries." },
+        { "id": 4, "name": "Emily Williams", "content": "The quality of the product is top-notch. I'm very impressed." },
+        { "id": 5, "name": "Daniel Brown", "content": "The item arrived earlier than expected. Kudos to the quick shipping." },
+        { "id": 6, "name": "Olivia Davis", "content": "I had an amazing experience with this company. Will buy again!" },
+        { "id": 7, "name": "Noah Wilson", "content": "The design of the product is unique and eye-catching. Love it!" },
+        { "id": 8, "name": "Ava Martinez", "content": "This product is very easy to use, even for beginners like me." },
+        { "id": 9, "name": "Ethan Anderson", "content": "For the price, this product offers great value. Highly recommended." },
+        { "id": 10, "name": "Sophia Thomas", "content": "I needed assistance and their support team responded promptly. Thumbs up!" },
+        { "id": 11, "name": "James Miller", "content": "The build quality of this product is outstanding. I'm impressed." },
+        { "id": 12, "name": "Emma Wilson", "content": "I'm a satisfied customer. The product met all my requirements." },
+        { "id": 13, "name": "Liam Clark", "content": "The delivery was super fast. I got my order within two days." },
+        { "id": 14, "name": "Isabella Martin", "content": "This product performs exceptionally well. I'm a happy customer." },
+        { "id": 15, "name": "Mason Hernandez", "content": "From purchase to delivery, the whole experience was great." }
       ]
+      
     },
 
     {
@@ -395,7 +582,50 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11611714/2022/8/10/375c60eb-b922-4883-af57-ad4a7f7d93b11660129260220NaughtyNinosGirlsBlueDenimShirtDress2.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11611714/2022/8/10/f5603b0b-fe23-40f4-91b8-5db9af4da56c1660129260240NaughtyNinosGirlsBlueDenimShirtDress3.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11611714/2022/8/10/f9d64b8b-2fe6-4f75-a203-0755e7246c261660129260259NaughtyNinosGirlsBlueDenimShirtDress4.jpg"
+      ],
+      "reviews": [
+        { "id": 1, "name": "John Doe", "content": "I am very satisfied with this product. It exceeded my expectations." },
+        { "id": 2, "name": "Jane Smith", "content": "I would recommend this product to anyone. It's worth every penny." },
+        { "id": 3, "name": "Michael Johnson", "content": "The customer service was outstanding. They helped me with all my queries." },
+        { "id": 4, "name": "Emily Williams", "content": "The quality of the product is top-notch. I'm very impressed." },
+        { "id": 5, "name": "Daniel Brown", "content": "The item arrived earlier than expected. Kudos to the quick shipping." },
+        { "id": 6, "name": "Olivia Davis", "content": "I had an amazing experience with this company. Will buy again!" },
+        { "id": 7, "name": "Noah Wilson", "content": "The design of the product is unique and eye-catching. Love it!" },
+        { "id": 8, "name": "Ava Martinez", "content": "This product is very easy to use, even for beginners like me." },
+        { "id": 9, "name": "Ethan Anderson", "content": "For the price, this product offers great value. Highly recommended." },
+        { "id": 10, "name": "Sophia Thomas", "content": "I needed assistance and their support team responded promptly. Thumbs up!" },
+        { "id": 11, "name": "James Miller", "content": "The build quality of this product is outstanding. I'm impressed." },
+        { "id": 12, "name": "Emma Wilson", "content": "I'm a satisfied customer. The product met all my requirements." },
+        { "id": 13, "name": "Liam Clark", "content": "The delivery was super fast. I got my order within two days." },
+        { "id": 14, "name": "Isabella Martin", "content": "This product performs exceptionally well. I'm a happy customer." },
+        { "id": 15, "name": "Mason Hernandez", "content": "From purchase to delivery, the whole experience was great." },
+        { "id": 16, "name": "Avery Martinez", "content": "The interface is intuitive and easy to navigate. Thumbs up!" },
+        { "id": 17, "name": "Jackson Thompson", "content": "I'm highly satisfied with the product and the service." },
+        { "id": 18, "name": "Ella Robinson", "content": "The product feels very sturdy and well-made. Impressive quality." },
+        { "id": 19, "name": "Lucas Parker", "content": "This product offers excellent value for the price. Recommended." },
+        { "id": 20, "name": "Aria Adams", "content": "The support team efficiently resolved my issue. Great job!" },
+        { "id": 21, "name": "Logan Murphy", "content": "This product is a great addition to my setup. Love it!" },
+        { "id": 22, "name": "Grace Turner", "content": "The customer care team was helpful and friendly. Thank you!" },
+        { "id": 23, "name": "Lucas Foster", "content": "The product performs reliably. I can trust it for my needs." },
+        { "id": 24, "name": "Victoria Cooper", "content": "I made an excellent purchase. The product is top-notch." },
+        { "id": 25, "name": "Henry Hill", "content": "The design of this product is modern and sleek. Looks fantastic!" },
+        { "id": 26, "name": "Madelyn Richardson", "content": "The transaction was smooth and hassle-free. Satisfied customer." },
+        { "id": 27, "name": "Samuel Bennett", "content": "This product is versatile and can be used in many ways." },
+        { "id": 28, "name": "Addison Brooks", "content": "Investing in this product was a good decision. Happy with it." },
+        { "id": 29, "name": "Elizabeth Reed", "content": "The product is durable and built to last. I'm impressed." },
+        { "id": 30, "name": "David Sanders", "content": "The shipping was fast and the package arrived securely packed." },
+        { "id": 31, "name": "Charlotte Jenkins", "content": "The customer service was responsive and helpful. Satisfied." },
+        { "id": 32, "name": "Joseph Bryant", "content": "This product's performance is solid. Does the job well." },
+        { "id": 33, "name": "Scarlett Ramirez", "content": "I'm happy with my purchase. The product is as described." },
+        { "id": 34, "name": "Samuel Peterson", "content": "The sound quality of this product is impressive. Enjoying it." },
+        { "id": 35, "name": "Grace Brooks", "content": "Setting up the product was a breeze. No hassles at all." },
+        { "id": 36, "name": "Lucas Diaz", "content": "The battery life of this product is excellent. Long-lasting." },
+        { "id": 37, "name": "Audrey Price", "content": "The product looks sleek and elegant. Happy with my purchase." },
+        { "id": 38, "name": "Dylan Howard", "content": "This product is highly efficient. Saves time and effort." },
+        { "id": 39, "name": "Hannah Hayes", "content": "For the price, this product offers good value. Pleased." },
+        { "id": 40, "name": "Carter Simmons", "content": "The build quality is good. The product feels sturdy." }
       ]
+      
     },
 
     {
