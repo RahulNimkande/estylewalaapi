@@ -764,6 +764,152 @@
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19130826/2022/7/16/5dc0a6f8-fb81-4ff1-8904-150f94ba3a221657961246871VASTRAMAYSISHUBoysBurgundyLayeredKurtiwithDhotiPants2.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19130826/2022/7/16/7de8e130-f5a2-4a7e-8ca0-63746175d80f1657961246860VASTRAMAYSISHUBoysBurgundyLayeredKurtiwithDhotiPants3.jpg",
         "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19130826/2022/8/1/bcafe69c-0dae-4b34-a036-b006c799cf1c1659330201429-VASTRAMAY-SISHU-Boys-Burgundy-Kurta-with-Dhoti-Pants-3091659-4.jpg"
+      ],
+      "reviews": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "image": " ",
+          "content": "I am very satisfied with this product. It exceeded my expectations."
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/e6b90907-a613-45e1-9b2e-988caaba36581645010770505-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-1.jpg",
+          "content": "I would recommend this product to anyone. It's worth every penny."
+        },
+        {
+          "id": 3,
+          "name": "Michael Johnson",
+          "image": " ",
+          "content": "The customer service was outstanding. They helped me with all my queries."
+        },
+        {
+          "id": 4,
+          "name": "Emily Williams",
+          "image": " ",
+          "content": "The quality of the product is top-notch. I'm very impressed."
+        },
+        {
+          "id": 5,
+          "name": "Daniel Brown",
+          "image": " ",
+          "content": "The item arrived earlier than expected. Kudos to the quick shipping."
+        },
+        {
+          "id": 6,
+          "name": "Olivia Davis",
+          "image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/14951330/2022/2/16/d4f9613f-552b-433b-8be5-09621e22ea651645010770417-Ahalyaa-Women-Beige-Floral-Printed-Regular-Gotta-Patti-Kurta-5.jpg",
+          "content": "I had an amazing experience with this company. Will buy again!"
+        },
+        {
+          "id": 7,
+          "name": "Noah Wilson",
+          "image": " ",
+          "content": "The design of the product is unique and eye-catching. Love it!"
+        },
+        {
+          "id": 8,
+          "name": "Ava Martinez",
+          "image": " ",
+          "content": "This product is very easy to use, even for beginners like me."
+        },
+        {
+          "id": 9,
+          "name": "Ethan Anderson",
+          "image": " ",
+          "content": "For the price, this product offers great value. Highly recommended."
+        },
+        {
+          "id": 10,
+          "name": "Sophia Thomas",
+          "image": " ",
+          "content": "I needed assistance and their support team responded promptly. Thumbs up!"
+        },
+        {
+          "id": 11,
+          "name": "James Miller",
+          "image": " ",
+          "content": "The build quality of this product is outstanding. I'm impressed."
+        },
+        {
+          "id": 12,
+          "name": "Emma Wilson",
+          "image": " ",
+          "content": "I'm a satisfied customer. The product met all my requirements."
+        },
+        {
+          "id": 13,
+          "name": "Liam Clark",
+          "image": " ",
+          "content": "The delivery was super fast. I got my order within two days."
+        },
+        {
+          "id": 14,
+          "name": "Isabella Martin",
+          "image": " ",
+          "content": "This product performs exceptionally well. I'm a happy customer."
+        },
+        {
+          "id": 15,
+          "name": "Mason Hernandez",
+          "image": " ",
+          "content": "From purchase to delivery, the whole experience was great."
+        },
+        {
+          "id": 16,
+          "name": "Avery Martinez",
+          "image": " ",
+          "content": "The interface is intuitive and easy to navigate. Thumbs up!"
+        },
+        {
+          "id": 17,
+          "name": "Jackson Thompson",
+          "image": " ",
+          "content": "I'm highly satisfied with the product and the service."
+        },
+        {
+          "id": 18,
+          "name": "Ella Robinson",
+          "image": " ",
+          "content": "The product feels very sturdy and well-made. Impressive quality."
+        },
+        {
+          "id": 19,
+          "name": "Lucas Parker",
+          "image": " ",
+          "content": "This product offers excellent value for the price. Recommended."
+        },
+        {
+          "id": 20,
+          "name": "Aria Adams",
+          "image": " ",
+          "content": "The support team efficiently resolved my issue. Great job!"
+        },
+        {
+          "id": 21,
+          "name": "Logan Murphy",
+          "image": " ",
+          "content": "This product is a great addition to my setup. Love it!"
+        },
+        {
+          "id": 22,
+          "name": "Grace Turner",
+          "image": " ",
+          "content": "The customer care team was helpful and friendly. Thank you!"
+        },
+        {
+          "id": 23,
+          "name": "Lucas Foster",
+          "image": " ",
+          "content": "The product performs reliably. I can trust it for my needs."
+        },
+        {
+          "id": 24,
+          "name": "Victoria Cooper",
+          "image": " ",
+          "content": "I made an excellent purchase. The product is top-notch."
+        }
       ]
     },
 
